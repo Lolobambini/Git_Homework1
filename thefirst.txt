@@ -1,4 +1,7 @@
 The first file
 The second file
 The third
+QWERTY
+Hello world!!!
+Hello peace!!!!
 
